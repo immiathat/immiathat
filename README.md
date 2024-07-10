@@ -4,3 +4,4 @@
 <p>Steam : https://steamcommunity.com/id/miathat/</p>
 <p>Youtube : https://www.youtube.com/channel/UChpsT90Xwk0XjXkO2RWIrrg</p>
 <p>X : https://x.com/immiathat</p>
+<p>Discord: miathat</p>
